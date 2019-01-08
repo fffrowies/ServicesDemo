@@ -18,6 +18,8 @@
         </activity>
 
         <service android:name=".MyStartedService"/>
+
+        <service android:name=".MyIntentService"/>
     </application>
 
 </manifest>
