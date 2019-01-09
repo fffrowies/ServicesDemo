@@ -58,4 +58,11 @@
         android:textSize="20sp"
         android:textColor="@android:color/black"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bound Service Demo Activity"
+        android:onClick="moveToSecondActivity"
+        android:layout_alignParentBottom="true"/>
+
 </RelativeLayout>
